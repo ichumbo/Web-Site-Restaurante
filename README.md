@@ -9,7 +9,6 @@
   <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
 
 </div>
-
 <br />
 
 ### Demo Screeshots
