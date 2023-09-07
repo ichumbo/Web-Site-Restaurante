@@ -2,23 +2,23 @@
   <br />
   <br />
 
-  <h2 align="center">Grilli - Restaurant Website</h2>
+  <h2 align="center">Grilli - Site do restaurante</h2>
 
-  Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Grilli é um site de restaurante totalmente responsivo, <br />responsivo para todos os dispositivos, construído usando HTML, CSS e JavaScript.
 
-  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Demonstração ao vivo</strong></a>
 
 </div>
 <br />
 
-### Demo Screeshots
+### Capturas de tela de demonstração
 
 ![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-### Contact
+### Contato
 
-If you want to contact with me you can reach me at [Twitter](https://twitter.com/IanMelw).
+Se você quiser entrar em contato comigo, pode entrar em contato comigo em [Twitter](https://twitter.com/IanMelw).
 
-### License
+### Licença
 
 [MIT](https://choosealicense.com/licenses/mit/)
